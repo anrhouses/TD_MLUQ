@@ -10,4 +10,5 @@ The python modules are:
 - matplotlib.pyplot
 - seaborn
 - sklearn
-  Install them using *pip install*
+
+**Install** them using *pip install*
