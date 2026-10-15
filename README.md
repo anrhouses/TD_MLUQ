@@ -3,6 +3,7 @@ Dataset and scripts for the training session on ML and UQ.
 - **data.zip** contains all training data based on [Rohmer et al., 2018](https://link.springer.com/article/10.1007/s00477-017-1423-y?utm_source=researchgate.net&utm_medium=article)
 - **isto_uqml_partI-sujet.ipynb** notebook of the training session
 - a version to be opened on [Google colab](https://githubtocolab.com/anrhouses/TD_MLUQ/blob/main/isto_uqml_partI_sujet_GoogleColab.ipynb) - you need a gmail account
+- a PDF **ISTO_IntroML_Rohmer_vDiff** describing the introduction to machine learning with a focus on Geosciences
 
 The python modules are:
 - numpy 
