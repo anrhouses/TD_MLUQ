@@ -10,5 +10,6 @@ The python modules are:
 - matplotlib.pyplot
 - seaborn
 - sklearn
+- openturns
 
 **Install** them using *pip install*
