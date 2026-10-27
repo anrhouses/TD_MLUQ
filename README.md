@@ -4,6 +4,8 @@ Dataset and scripts for the training session on ML and UQ.
 - **isto_uqml_partI-sujet.ipynb** notebook of the training session
 - a version to be opened on [Google colab](https://githubtocolab.com/anrhouses/TD_MLUQ/blob/main/isto_uqml_partI_sujet_GoogleColab.ipynb) - you need a gmail account
 - a PDF **ISTO_IntroML_Rohmer_vDiff** describing the introduction to machine learning with a focus on Geosciences
+- a PDF **ISTO_IntroUQ_Rohmer_vDiff** describing the introduction to uncertainty quantification
+- **isto_uqml_partII-sujet.ipynb** notebook of the training session
 
 The python modules are:
 - numpy 
@@ -11,6 +13,5 @@ The python modules are:
 - matplotlib.pyplot
 - seaborn
 - sklearn
-- openturns
 
 **Install** them using *pip install*
