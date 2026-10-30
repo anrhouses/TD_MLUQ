@@ -6,6 +6,7 @@ Le dossier contient:
 - Notebook isto_exam_sujet.ipynb sur la partie incertitudes / métamodèles
 - Un article PDF « Juncu - 2020 - …”
 - Un sujet « Rapport Exam - Partie assimilation de données.docx »
+  
 **3. Envoyer le document word et le notebook complétés dans un zip a**
                 j.rohmer@brgm.fr ET r.chassagne@brgm.fr 
 DATE LIMITE d’ENVOI: 18  décembre, 17hrs
